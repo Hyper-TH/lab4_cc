@@ -1,3 +1,7 @@
+/*
+    Note that if you get the error "Invalid Token", get 
+    the new Authorization header (e.g.,  Bearer <key>)
+*/
 // Get modules
 const request = require('request');
 const dotenv = require('dotenv');
